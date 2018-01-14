@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace task1
 {
@@ -6,7 +6,7 @@ namespace task1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Makhmud!");
         }
     }
 }
